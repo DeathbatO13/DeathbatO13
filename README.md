@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Daniel Alejandro Torres </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGUx9UGq683UmHItsd_ggt2jsulE6P5oBxFg&s" width = 50px></picture> **About me**
+## <picture><img src = "https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width = 50px></picture> **About me**
 
 - A passionate Self-taught Software developer
 - I'm an Electronic Enginner
