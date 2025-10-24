@@ -33,6 +33,7 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![MySql](https://img.shields.io/badge/MySQL-%20%230D6FDF?style=for-the-badge&logo=mysql&logoColor=white)
     ![SQLite](https://img.shields.io/badge/SqLite-%230DD1DF%20?style=for-the-badge&logo=sqlite&logoColor=white)
+    ![InteliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%233B084D?style=for-the-badge&logo=intellijidea)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-%230A3893%20?style=for-the-badge&logo=eclipse%20ide&logoColor=white)
     ![PyCharm](https://img.shields.io/badge/PyCharm-%2321D77D?style=for-the-badge&logo=pycharm&logoColor=white)
@@ -61,7 +62,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeathbatO13&theme=algolia&show_icons=true&hide_border=false&count_private=true" width="450"/><br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathbatO13&theme=algolia&show_icons=true&hide_border=false&layout=compact" width="350" heigth="150" alt="Deathbat0"/>
  
-  
+
 
 </a>
 </div>
