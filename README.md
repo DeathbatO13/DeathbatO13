@@ -58,9 +58,10 @@
 
 <div align="center">
 
-
-  ![DeathbatO13's Stats](https://github-readme-stats.vercel.app/api?username=DeathbatO13&theme=algolia&show_icons=true&hide_border=false&count_private=true)
-  ![DeathbatO13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeathbatO13&theme=algolia&show_icons=true&hide_border=false&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeathbatO13&theme=algolia&show_icons=true&hide_border=false&count_private=true" width="350" heigth="150" alt="Deathbat0"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathbatO13&theme=algolia&show_icons=true&hide_border=false&layout=compact" width="350" heigth="150" alt="Deathbat0"/>
+  
+ 
  
 
 
