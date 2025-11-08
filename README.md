@@ -60,25 +60,20 @@
 
 <a href="https://github.com/DeathbatO13/">
 	
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeathbatO13&theme=react&show_icons=true&hide_border=false&count_private=true" width="450"/><br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathbatO13&theme=react&show_icons=true&hide_border=false&layout=compact" width="350" heigth="150" alt="Deathbat0"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeathbatO13&theme=algolia&show_icons=true&hide_border=false&count_private=true" width="450"/><br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathbatO13&theme=algolia&show_icons=true&hide_border=false&layout=compact" width="350" heigth="150" alt="Deathbat0"/>
 
 </a>
 </div>
 
 <br>
 
-## <img src="https://assets-v2.lottiefiles.com/a/f19bff2c-1163-11ee-b8b3-4bb083750cdc/mOPks4oKcg.gif" width="35"><b> Github Trophies </b>
-<br>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deathbato13&theme=algolia&column=4&margin-w=20&margin-h=20" alt="deathbato13" /></a> </p><br>
-
 -----
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..! 🤝🏻</b>
 <br>
-<div align='center'>
 
+<div align='center'>
 <ul>
 
 <li>
@@ -100,4 +95,4 @@
 
 </div>
 
-Last Edited on: 24/10/2024
+Last Edited on: 24/10/2025
