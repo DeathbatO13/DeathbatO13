@@ -68,6 +68,11 @@
 
 <br>
 
+## <img src="https://assets-v2.lottiefiles.com/a/f19bff2c-1163-11ee-b8b3-4bb083750cdc/mOPks4oKcg.gif" width="35"><b> Github Trophies </b>
+<br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deathbato13&theme=algolia&column=4&margin-w=20&margin-h=20" alt="deathbato13" /></a> </p><br>
+
 -----
 
 ## <b> Let's Connect..! 🤝🏻</b>
