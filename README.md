@@ -26,27 +26,30 @@
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-
+- **Framewoks**:
+  
+	![Spring](https://img.shields.io/badge/Spring-%232FC844%20?style=for-the-badge&logo=spring&logoColor=white)
+	![Flask](https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&logoColor=white)
+  	![React](https://img.shields.io/badge/react-%23018EF5?style=for-the-badge&logo=react&logoColor=white)
+  
+  
 - **Tools and DB**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+  	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  	![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white) 
     ![MySql](https://img.shields.io/badge/MySQL-%20%230D6FDF?style=for-the-badge&logo=mysql&logoColor=white)
     ![SQLite](https://img.shields.io/badge/SqLite-%230DD1DF%20?style=for-the-badge&logo=sqlite&logoColor=white)
+  	![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
     ![InteliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%233B084D?style=for-the-badge&logo=intellijidea)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-%230A3893%20?style=for-the-badge&logo=eclipse%20ide&logoColor=white)
     ![PyCharm](https://img.shields.io/badge/PyCharm-%2321D77D?style=for-the-badge&logo=pycharm&logoColor=white)
-	![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
-  	![Flask](https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%23018EF5?style=for-the-badge&logo=react&logoColor=white)
-
-
+	
 
 - **Learning**:
 
-    ![Spring](https://img.shields.io/badge/Spring-%232FC844%20?style=for-the-badge&logo=spring&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/Kotlin-%239F0ECD?style=for-the-badge&logo=kotlin&logoColor=white)
     ![XML](https://img.shields.io/badge/xml-%23EC6813?style=for-the-badge&logo=xml)
     ![Android Studio](https://img.shields.io/badge/Android%20Studio%20-%20black?style=for-the-badge&logo=androidstudio)
