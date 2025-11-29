@@ -40,7 +40,8 @@
     ![PyCharm](https://img.shields.io/badge/PyCharm-%2321D77D?style=for-the-badge&logo=pycharm&logoColor=white)
 	![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
   	![Flask](https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&logoColor=white)
-  	![React](https://img.shields.io/badge/react-%230088CC?style=for-the-badge&logo=react)
+  ![React](https://img.shields.io/badge/react-%23018EF5?style=for-the-badge&logo=react&logoColor=white)
+
 
 
 - **Learning**:
