@@ -21,9 +21,9 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+	![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 
@@ -31,6 +31,9 @@
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ 	![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+  	![Flask](https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&logoColor=white)
+  	![React](https://img.shields.io/badge/react-%230088CC?style=for-the-badge&logo=react)
     ![MySql](https://img.shields.io/badge/MySQL-%20%230D6FDF?style=for-the-badge&logo=mysql&logoColor=white)
     ![SQLite](https://img.shields.io/badge/SqLite-%230DD1DF%20?style=for-the-badge&logo=sqlite&logoColor=white)
     ![InteliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%233B084D?style=for-the-badge&logo=intellijidea)
@@ -44,7 +47,7 @@
 
     ![Spring](https://img.shields.io/badge/Spring-%232FC844%20?style=for-the-badge&logo=spring&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/Kotlin-%239F0ECD?style=for-the-badge&logo=kotlin&logoColor=white)
-    ![XML](https://img.shields.io/badge/XML-%23F18315?style=for-the-badge&logo=xaml&logoColor=white)
+    ![XML](https://img.shields.io/badge/xml-%23EC6813?style=for-the-badge&logo=xml)
     ![Android Studio](https://img.shields.io/badge/Android%20Studio%20-%20black?style=for-the-badge&logo=androidstudio)
     ![Firebase](https://img.shields.io/badge/Firebase-%23E7B30E%20?style=for-the-badge&logo=firebase&logoColor=white)
     ![AWS](https://img.shields.io/badge/AWS%20-%20%2306B1ED%20?style=for-the-badge&logo=amazonaws)
