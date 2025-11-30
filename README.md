@@ -26,7 +26,7 @@
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
-- **Framewoks**:
+- **Frameworks**:
   
 	![Spring](https://img.shields.io/badge/Spring-%232FC844%20?style=for-the-badge&logo=spring&logoColor=white)
 	![Flask](https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&logoColor=white)
