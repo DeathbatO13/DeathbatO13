@@ -18,13 +18,12 @@
 - **Languages**:
     
     ![Java](https://img.shields.io/badge/Java-%23CF0A0A%20?style=for-the-badge&logo=minecraft&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+  	![Javascript](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-	![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
+    ![CSS](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&logoColor=white)
 
 - **Frameworks**:
   
@@ -32,32 +31,29 @@
 	![React](https://img.shields.io/badge/react-%23018EF5?style=for-the-badge&logo=react&logoColor=white)
 	![Flask](https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&logoColor=white)
   	
-  
-  
 - **Tools and DB**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  	![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
   	![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white) 
     ![MySql](https://img.shields.io/badge/MySQL-%20%230D6FDF?style=for-the-badge&logo=mysql&logoColor=white)
     ![SQLite](https://img.shields.io/badge/SqLite-%230DD1DF%20?style=for-the-badge&logo=sqlite&logoColor=white)
   	![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
     ![InteliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%233B084D?style=for-the-badge&logo=intellijidea)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-%230A3893%20?style=for-the-badge&logo=eclipse%20ide&logoColor=white)
-    ![PyCharm](https://img.shields.io/badge/PyCharm-%2321D77D?style=for-the-badge&logo=pycharm&logoColor=white)
-	
+    ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+    ![Pycharm](https://img.shields.io/badge/Pycharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
+	
 - **Learning**:
 
     ![Kotlin](https://img.shields.io/badge/Kotlin-%239F0ECD?style=for-the-badge&logo=kotlin&logoColor=white)
     ![XML](https://img.shields.io/badge/xml-%23EC6813?style=for-the-badge&logo=xml)
-    ![Android Studio](https://img.shields.io/badge/Android%20Studio%20-%20black?style=for-the-badge&logo=androidstudio)
-    ![Firebase](https://img.shields.io/badge/Firebase-%23E7B30E%20?style=for-the-badge&logo=firebase&logoColor=white)
+    ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/Firebase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
     ![AWS](https://img.shields.io/badge/AWS%20-%20%2306B1ED%20?style=for-the-badge&logo=amazonaws)
  
-
   
 </p>
 
