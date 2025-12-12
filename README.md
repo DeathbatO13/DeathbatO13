@@ -58,14 +58,18 @@
 </p>
 
 
-## <img src="https://assets-v2.lottiefiles.com/a/f19bff2c-1163-11ee-b8b3-4bb083750cdc/mOPks4oKcg.gif" width="35"><b> Github Trophies </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DeathbatO13&theme=algolia&column=4&row=2&margin-w=20&margin-h=20" alt="deathbato13" /></a> </p><br>
+<div align="center">
 
-<br>
+<a href="https://github.com/DeathbatO13/">
+	
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeathbatO13&theme=algolia&show_icons=true&hide_border=false&count_private=true" width="450"/><br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathbatO13&theme=algolia&show_icons=true&hide_border=false&layout=compact" width="350" heigth="150" alt="Deathbat0"/>
+</a>
 
-
+</div>
 -----
 
 ## <b> Let's Connect..! 🤝🏻</b>
