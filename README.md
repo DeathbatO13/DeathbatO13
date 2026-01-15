@@ -57,6 +57,22 @@
   
 </p>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/DeathbatO13/">
+	
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=DeathbatO13&show_icons=true&theme=algolia#gh-dark-mode-only" width="450"/><br><br>
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DeathbatO13&theme=algolia&hide_border=false&layout=compact&hide=html,tex,cmake&langs_count=8" width="350" heigth="150" alt="Deathbat0"/>
+</a>
+
+</div>
+
+-----
+
+
 
 ## <b> Let's Connect..! 🤝🏻</b>
 <br>
