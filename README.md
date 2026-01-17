@@ -4,8 +4,7 @@
 
 - A passionate Self-taught Software developer
 - I'm an Electronic Enginner
-- Currently learning Android Development by Self
-- Lover of astronomy and physics
+- Lover of sports, astronomy and physics
 - I’m currently open for a new job opportunity, this is [my contact](https://www.linkedin.com/in/daniel-torres1309/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -45,14 +44,7 @@
     ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-%232C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
     ![Pycharm](https://img.shields.io/badge/Pycharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-	
-- **Learning**:
 
-    ![Kotlin](https://img.shields.io/badge/Kotlin-%239F0ECD?style=for-the-badge&logo=kotlin&logoColor=white)
-    ![XML](https://img.shields.io/badge/xml-%23EC6813?style=for-the-badge&logo=xml)
-    ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-    ![Firebase](https://img.shields.io/badge/Firebase-%23DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS%20-%20%2306B1ED%20?style=for-the-badge&logo=amazonaws)
  
   
 </p>
