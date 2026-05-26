@@ -6,9 +6,9 @@
 
 ## <picture><img src = "https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width = 50px></picture> **About me**
 
-- A passionate Self-taught Software developer
-- I'm an Electronic Enginner
-- Lover of sports, astronomy and physics
+- A passionate Self-taught Software developer.
+- - I'm an Electronic Enginner.
+- Lover of sports, astronomy and physics.
 - I’m currently open for a new job opportunity, this is [my contact](https://www.linkedin.com/in/daniel-torres1309/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
