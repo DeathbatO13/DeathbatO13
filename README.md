@@ -7,7 +7,7 @@
 ## <picture><img src = "https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width = 50px></picture> **About me**
 
 - A passionate Self-taught Software developer.
-- - I'm an Electronic Enginner.
+- I'm an Electronic Enginner.
 - Lover of sports, astronomy and physics.
 - I’m currently open for a new job opportunity, this is [my contact](https://www.linkedin.com/in/daniel-torres1309/)
 
