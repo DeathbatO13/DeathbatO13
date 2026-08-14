@@ -30,7 +30,7 @@
 
 - **Frameworks**:
   
-	![Spring Boot](https://img.shields.io/badge/Spring-%232FC844%20?style=for-the-badge&logo=spring&logoColor=white)
+	![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%232FC844%20?style=for-the-badge&logo=spring&logoColor=white)
 	![React](https://img.shields.io/badge/react-%23018EF5?style=for-the-badge&logo=react&logoColor=white)
 	![Flask](https://img.shields.io/badge/flask-%23000000?style=for-the-badge&logo=flask&logoColor=white)
   	
