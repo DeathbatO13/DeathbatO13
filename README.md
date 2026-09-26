@@ -99,7 +99,7 @@ I'm particularly interested in projects where **software meets real-world proble
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=DeathbatO13&show_icons=true&theme=algolia#gh-dark-mode-only" width="450"/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DeathbatO13&theme=algolia&hide_border=false&layout=compact&hide=html,tex,cmake&langs_count=8" width="300"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DeathbatO13&theme=algolia&hide_border=false&layout=compact&hide=html,tex,batchfile,cmake&langs_count=8" width="300"/>
 
 </a>
 
